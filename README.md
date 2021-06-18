@@ -1,2 +1,2 @@
 # ColonyTogetherPack
-A minecraft modpack made for 1.16.5 by me and a friend. WIP Expect mass amounts of changes throughout it's life cycle.
+There will be a curseforge version soon, and potentially ways to support us as well. Otherwise, the server is already included in the files. Enjoy!
